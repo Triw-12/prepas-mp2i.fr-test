@@ -26,6 +26,12 @@ Toutes les futures informations comme le planning, les intervenants ou encore l'
 
 > {{< timer date="2027-02-20T14:00:00+01:00" label="Le forum commence dans " ended="Le forum a commencé !!" >}}
 
+{{< figure
+    caption="Réalisée par Emma"
+    src="/images/forum/affiche_forum2027.png"
+    link="/images/forum/affiche_forum2027.png"
+>}}
+
 ## Présentation
 
 Dans la continuité de l'[édition 2026](/posts/forum-2026/), nous organisons un nouveau forum virtuel le samedi 20 février 2027 à 14h.
@@ -35,7 +41,7 @@ Cette édition accueillera à la fois des étudiants en MP2I, MPI, 5/2 (élèves
 
 ## Organisation
 
-Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 20 février 2027 l'après-midi**.
+Le forum des étudiants et étudiantes en MP2I/MPI se tiendra **le samedi 20 février 2027 de 14h à 17h** !
 Il s'organisera autour de différents stands composés de 2 ou 3 établissements géographiquement proches qui tourneront toutes les heures afin que vous puissiez obtenir des réponses et des témoignages d'étudiants venants de prépas différentes.
 
 ## Accès aux salles
